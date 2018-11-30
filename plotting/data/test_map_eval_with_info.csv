@@ -1,0 +1,7 @@
+rates,s$_{10}$+RL,s$_{1000}$+RL,c$_{1000}$+RL,123$_{1500}$+RL,s$_{10}$+RL$_{sparse}$,s$_{10}$+RL$_{euclidean}$,"s$_{1000}$+RL$_{TRPO,c0.1}$","s$_{1000}$+RL$_{TRPO,c1.0}$",c$_{1000}$+RL$_{200}$,s$_{10}$+RL$_{200}$,s$_{10}$,c$_{1000}$,RL1,RL123,RL123$_{euclidean}$,RL123$_{TRPO}$
+success,68.50,72.50,79.00,75.50,67.00,66.00,67.00,69.50,70.00,62.00,18.00,44.00,49.50,65.50,15.50,19.00
+timeout,11.00,10.50,8.50,9.00,10.00,12.00,16.00,24.00,17.50,6.00,8.00,33.50,15.50,14.50,74.00,67.50
+crash,20.50,17.00,12.50,15.50,23.00,22.00,17.00,6.50,12.50,32.00,74.00,22.50,35.00,20.00,10.50,13.50
+IL,s10,s1000,c1000,123,s10,s10,s1000,s1000,c1000,s10,s10,c1000,none,none,none,none
+RL,CPO,CPO,CPO,CPO,CPO,CPO,TRPO$_{0.1}$,TRPO$_{1.0}$,CPO,CPO,none,none,CPO - 1,CPO,CPO,TRPO
+reward,short,short,short,short,sparse,Eucl.,short,short,short,short,none,none,short,short,Eucl.,short
