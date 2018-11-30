@@ -1,0 +1,7 @@
+rates,s$_{10}$+RL$_{sparse}$,c$_{1000}$+RL,s$_{10}$,c$_{1000}$,RL123$_{sparse}$,RL123,V2R,c$_{1000}$+RL$_{V2R}$
+success,67.00,79.00,18.00,44.00,4.50,65.50,59.00,89.00
+timeout,10.00,8.50,8.00,33.50,66.50,14.50,8.50,3.50
+crash,23.00,12.50,74.00,22.50,29.00,20.00,32.50,7.50
+IL,s10,c1000,s10,c1000,none,none,none,c1000$_{V2R}$
+RL,CPO,CPO,none,none,CPO,CPO,V2R$_{1.0}$,CPO$_{V2R}$
+reward,sparse,short,none,none,sparse,short,Eucl.,short
